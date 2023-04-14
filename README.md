@@ -10,7 +10,7 @@ Buat database
             ✅ Admin
             ✅ User
         ✅ Expor database
-        ✅ Impor data
+        ✅ Impor database
 
 
     
